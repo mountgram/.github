@@ -16,7 +16,6 @@ Projects here are likely to be rough, specific, and useful before they are polis
 ## What This Is Not
 
 - Not a product launch.
-- Not a consulting funnel.
 - Not a pile of prompt tricks.
 
 ## Elsewhere
